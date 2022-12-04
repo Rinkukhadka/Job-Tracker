@@ -1,0 +1,12 @@
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\bin\Debug\JobTracker.exe.config
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\bin\Debug\JobTracker.exe
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\bin\Debug\JobTracker.pdb
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.csproj.AssemblyReference.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.Form1.resources
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.Properties.Resources.resources
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.csproj.GenerateResource.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.csproj.CoreCompileInputs.cache
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.exe
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.pdb
+C:\Users\Rinku\OneDrive\Desktop\MSSA\Week5\JobTracker\JobTracker\obj\Debug\JobTracker.csproj.ResolveComReference.cache
